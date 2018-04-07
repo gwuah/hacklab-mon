@@ -1,2 +1,4 @@
 # afdtechbot
-:fire: A twitter-bot that monitors twitter’s tweet stream for the afdtechtalk hashtag ( #afdtechtalk )
+:fire: A twitter bot to monitor the #hacklab2018 hastag https://hacklab-mon-gixzpwmfuy.now.sh/
+
+check twitter.js and insert api keys
