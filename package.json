@@ -1,0 +1,17 @@
+{
+  "name": "hacklab-mon",
+  "version": "1.0.0",
+  "description": "A twitter-bot that monitors (#hacklab2018)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Griffith Awuah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.13",
+    "path": "^0.12.7",
+    "twit": "^2.2.9"
+  }
+}
